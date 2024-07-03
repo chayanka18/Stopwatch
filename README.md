@@ -7,7 +7,6 @@ This repository contains the code for a simple yet functional Stopwatch Applicat
 - **Start/Stop:** Click the start button to begin the stopwatch and the stop button to pause it.
 - **Reset:** Reset the timer back to zero with the reset button.
 - **Accurate Timing:** Displays the time in hours, minutes, seconds, and milliseconds.
-- **Responsive Design:** The layout adjusts seamlessly across different devices.
 
 ## How It Works
 - **HTML:** The structure of the application.
